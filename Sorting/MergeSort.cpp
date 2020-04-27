@@ -1,3 +1,10 @@
+/* 
+Alog:                   Merge Sort
+Time Complexity:        O(n) = nlog(n)
+Algorithmic Paradigm:   Divide & Concor (Recursion)
+Description:            Divide the n element sequence to be sorted to two subsequence of n/2. Sort the two subsequences recursively using merg sort. Merge the two sorted sequences.
+*/
+
 #include <iostream>
 #define LOG(x) std::cout << x << std::endl
 

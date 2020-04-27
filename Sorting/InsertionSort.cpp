@@ -1,6 +1,8 @@
 /* 
-Alog: Insertion Sort
-Time Complexity: O(n)=n*n
+Alog:                   Insertion Sort
+Time Complexity:        O(n)=n*n
+Algorithmic Paradigm:   Linear
+Description:            Insert a new element in sorted subarray from unsorted subarray at its sorted postion.
 */
 
 #include <iostream>
